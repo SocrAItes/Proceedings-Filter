@@ -6,12 +6,14 @@ urls = [
     "https://proceedings.mlr.press/v202/",
     "https://proceedings.mlr.press/v235/",
     "https://proceedings.mlr.press/v267/",
+    "https://proceedings.mlr.press/v306/",
 ]
 
 output_paths = [
     "./data/ICML-2023.txt",
     "./data/ICML-2024.txt",
     "./data/ICML-2025.txt",
+    "./data/ICML-2026.txt",
 ]
 
 if __name__ == '__main__':
