@@ -1,0 +1,86 @@
+ChatDev 2.0: A No-Code Multi-Agent Platform for Developing Everything
+HintEval: An Open-Source Python Toolkit for Hint Generation and Hint Evaluation
+EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering
+ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models
+Jiuge-Tuiqiao: An Interpretable Human-AI System for Classical Chinese Poetry Refinement
+CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop
+Pearmut: Human Evaluation of Translation Made Trivial
+Simulstream: Open-Source Toolkit for Evaluation and Demonstration of Streaming Speech-to-Text Translation Systems
+HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices
+ARCCS: An Automated Regulatory Compliance Checking System
+RISE-NLP: Interactive Residual Distribution Diagnostics for Fairness Auditing in Text Classification
+MangaLens: A Multi-Model Tool for Structured Manga Parsing
+Drift Inspector: Exploring and Measuring Scientific Drift with Atomic Contribution Claims
+LLMberjack: Guided Trimming of Debate Trees for Multi-Party Conversation Creation
+TraceFork: A System for Inspecting GUI-Agent Trajectory Forks
+Who Is Asking? Personalized and Tiered Memory for Long-Lived AI Assistants
+MUSE: A Run-Centric Platform for Multimodal Unified Safety Evaluation of Large Language Models
+The GRADIEND Python Package: An End-to-End System for Gradient-Based Feature Learning
+e2a: A Secure Agent-Native Email Gateway with Phishing and Prompt-Injection Defense
+ShieldMCP: An Interactive System for Runtime Security of Model Context Protocol Tool Calls
+OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations
+ToFu: A White-Box, Token-Efficient Agent Harness for Researchers
+Explainable Coarse-to-Fine Ancient Manuscript Duplicates Discovery
+CoEvoLoop: Closed-Loop RL Training of Customer-Service Agents by Co-Evolving Environment, Reward, and Policy
+AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities
+BNB Agent Studio: An Open Toolchain for Provisioning, Deploying, and Operating Economically Autonomous LLM Agents
+QQ: A Language Metadata Toolkit for Multilingual NLP
+GPTKB 2.0: Browsing, Querying, and Auditing a Disambiguated LLM-Derived Knowledge Base
+RefactorPlatform: An Open-Source Harness for Controlled Evaluation of Repository-Scale Refactoring Agents
+Alyas: Evidence-Grounded Synthetic Populations for Simulated Social and Market Research
+KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models
+DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening
+ZSERVE: An Adaptive Framework for Optimizing Large Language Models Serving in Heterogeneous Infrastructures
+RAGAPHENE A RAG Annotation Platform with Human ENhancements and Edits
+Predicting Collective Behavior with Large Language Models: The EBI Framework for Response-Side Inference
+SCOPE: Source Credibility and Outlet Profiling Engine
+TraceForge: A Human-Gated System for Auto-Hardening Tool-Using LLM Agents into Immutable Workflow DAGs
+Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents
+PrivBench: A Holistic and Modular Benchmarking Platform for Evaluating Text-to-Text Privatization
+WikiSTAR: A System for Shedding Light on the Hidden History of Scientific Wikipedia Articles
+MemTools: A Unified Research Framework for Interoperable Agent Memory
+string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms
+Murano: Design, Run, and Reproduce Mechanistic Interpretability Experiments as Composable Pipelines
+Anamnesis: An Open-Source Platform for Large-Scale Backstory-Conditioned Survey Simulation
+CALIBER: Calibrated Assessment via LLM for Interview Behavioral Evaluation and Rating
+CAT: A CounterArgument Tutoring System based on Logical Structure Analysis
+Trust the Context, Not the Weights: Faithful Multi-Hop QA via Synthetic Mid-Training
+SAFER: Speech-First Auditable Follow-Up with Evidence-Gated Routing
+EviDAG: Auditable Causal DAG Authoring with Biomedical Literature
+CAFE: A Compound-AI Factorial Evaluation Framework
+RailVaani: An Optimized Bilingual ASR Pipeline for Entity-Rich Railway Announcements
+AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents
+CoDA: A Human-LM Collaborative Codebook Development Assistant for Domain-Specific Text Annotation
+ShareChatInsights: An Automated Pipeline for Analyzing Large-Scale Human–LLM Conversations
+Karma: A Composable Framework for Evaluating LLM Agents on Stateful Kubernetes Operations
+Bergson: An Open Source Library for Data Attribution
+TreeThink: A Modular Tree Search Library for Mathematical Reasoning with LLMs
+hoBIT: A Profile-Aware Retrieval-Augmented Chatbot for University Academic Advising
+TechMatch: Matching Enterprise Technology Demands to Academic Resources with Graph-Augmented Retrieval
+SentinelEdge: A Lightweight, Streaming, Auditable Scam-Call Detection System for the Edge
+Neurobiber: Fast and Interpretable Linguistic Feature Extraction
+CorpusLens: LLMs as Data Analysis Facilitators in the Social, Humanistic, and Language Sciences
+MUDIPA: A Human-in-the-Loop AI-Assisted Platform for Discourse Graph Annotation in Multi-party Dialogues
+AgentCheck: A Reproduce–Intervene–Mitigate Workbench for LLM Agents over MCP
+GIMFlow: An LLM-Guided Dialogue-to-Music System for GIM-Inspired Well-Being Experiences
+Schematize: An Agentic System for Generating and Refining Information-Extraction Schemas for Legal Research
+NotAI.AI: An Interactive Explainable System for AI-Generated Text Detection
+Embedding Orrery: Visual Exploration of Embedding Spaces and Sparse Autoencoder Features
+AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis
+A Composable Evaluation System for Reproducible Omni-Modal Foundation Model Evaluation
+GOD: Govern, Observe, and Direct — A Real-Time Control Room for Agent Societies
+EviStreams: Human-in-the-Loop AI Data Extraction for Systematic Reviews in Medicine
+SAFETUNE : A Unified, Faithful Library for Auditing and Repairing Safety Drift in Fine-Tuned LLMs
+ABRA: Agent-Bound UI for Human-Agent Communication beyond Chat with Reusable Views
+ImmersiveCFL: Multi-Agent Learning Path Generation for Scenario-Oriented Chinese Language Learning
+PatientHub: A Unified Framework for Patient Simulation
+WonderEcon: An Interactive LLM-Agent System for Simulating Economies
+Compile by Training: Turning Natural-Language Specifications into Local Neural Functions
+PalmClaw: A Native On-Device Agent Framework for Mobile Phones
+CLT-Forge: A Scalable Library for Cross-Layer Transcoders and Attribution Graphs
+VISTA: A Controllable Platform for Generating and Auditing Egocentric Assistance Scenarios
+Dr. Claw: An AI Scientist Workspace for Vibe Research
+RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM
+AgentGUI: An Interface for Observing and Steering Long-Running AI Agents
+SentryLine: Evidence-Grounded Question Answering over Evolving Documents in Oncology Care
+MineTRACE: An Evidence-Grounded Interactive Reasoning System for Mineral Prospectivity
